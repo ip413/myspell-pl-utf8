@@ -1,0 +1,1 @@
+# myspell-pl-utf8
